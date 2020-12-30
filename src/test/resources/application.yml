@@ -1,0 +1,5 @@
+qlock:
+  config:
+    cluster-pattern: single
+    password: DNvQMjP6WP
+    address: redis.zkh360.com:13001
